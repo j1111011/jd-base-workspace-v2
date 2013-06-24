@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="a1">http://localhost/update?</string>
+    <string name="a2">984816FD329622876E14907634264E6F332E9FB3</string>
+
+</resources>
